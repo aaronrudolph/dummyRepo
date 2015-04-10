@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=P1_TOP_LEVEL.SchDoc|Designator=ACCEL|SchDesignator=ACCEL|FileName=P5_ACCEL.SchDoc|SymbolType=Normal|RawFileName=P5_ACCEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P1_TOP_LEVEL.SchDoc|Designator=DEBUG_CONN|SchDesignator=DEBUG_CONN|FileName=P7_DEBUG_CONN.SchDoc|SymbolType=Normal|RawFileName=P7_DEBUG_CONN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P1_TOP_LEVEL.SchDoc|Designator=LEDs|SchDesignator=LEDs|FileName=P4_LEDS.SchDoc|SymbolType=Normal|RawFileName=P4_LEDS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P1_TOP_LEVEL.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=P3_POWER.SchDoc|SymbolType=Normal|RawFileName=P3_POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P1_TOP_LEVEL.SchDoc|Designator=SoC|SchDesignator=SoC|FileName=P2_SoC.SchDoc|SymbolType=Normal|RawFileName=P2_SoC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=P1_TOP_LEVEL.SchDoc
